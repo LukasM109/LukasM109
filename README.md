@@ -11,6 +11,7 @@
   </div>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasM109&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasM109&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/LukasM109/github-readme-stats)
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
