@@ -1,4 +1,4 @@
-### Olá, eu sou Lucas Machado 👋
+### Olá, eu sou Lucas Machado, web developer e DBA
 
 
 - 🔭 Hoje trabalho como Técnico de Redes
